@@ -1,5 +1,6 @@
 class Book {
   constructor() {
-    this.pages = 10;
+    this.hardback = true;
+    this.pages = 99;
   }
 }
